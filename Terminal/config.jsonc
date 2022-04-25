@@ -1,0 +1,4 @@
+{
+    "symbols": "xo",    // What symbols are used inside the game?
+    "row-length": 3     // What the length and width of the grid is (< 10)
+}
